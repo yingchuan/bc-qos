@@ -3,12 +3,12 @@
 ![Edge Computing Gateway](bc-qos/edge-computing-gateway.drawio.png)
 
 ## Requrements
-| SSID        | VLAN ID | Priority | Description          |
+| SSID        | VLAN ID | Priority | Description           |
 |-------------|---------|-----------|----------------------|
-| SSID 1      | VLAN 10 | 1         | Guest Network        |
-| SSID 2      | VLAN 20 | 2         | Staff Network        |
-| SSID 3      | VLAN 30 | 3         | IoT Devices Network  |
-| SSID 4      | VLAN 40 | 4         | Management Network    |
+| SSID 1      | VLAN 10 | 1         | Management Network   |
+| SSID 2      | VLAN 20 | 2         | IoT Devices Network  |
+| SSID 3      | VLAN 30 | 3         | Staff Network        |
+| SSID 4      | VLAN 40 | 4         | Guest Network        |
 
 ## Hirarchical Queuing Discipline
 ![HTB Queue](bc-qos/htb-queue.drawio.png)
