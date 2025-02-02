@@ -12,7 +12,7 @@
 
 ## Hirarchical Queuing Discipline
 ![HTB Queue](bc-qos/htb-queue.drawio.png)
-[fq_codel](bc-qos/fq_codel.drawio.png)
+![fq_codel](bc-qos/fq_codel.drawio.png)
 
 ## Bandwidth Detection
 ![bandwidth-detection](bc-qos/bandwidth-detection.drawio.png)
