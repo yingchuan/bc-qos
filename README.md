@@ -12,6 +12,8 @@
 
 ## Hirarchical Queuing Discipline
 ![HTB Queue](bc-qos/htb-queue.drawio.png)
+
+### The Flow Queue CoDel Packet Scheduler
 ![fq_codel](bc-qos/fq_codel.drawio.png)
 
 ## Bandwidth Detection
